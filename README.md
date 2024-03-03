@@ -1,1 +1,1 @@
-Those are the very basics!
+Welcome to the very basics!
