@@ -1,1 +1,1 @@
-this file is not empty
+https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
